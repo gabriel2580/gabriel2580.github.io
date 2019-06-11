@@ -4,7 +4,7 @@ layout: default
 
 ---
 #.\gabriel2580
-Aquivc escreve o que quiser!
+Aqui você escreve o que quiser!
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
